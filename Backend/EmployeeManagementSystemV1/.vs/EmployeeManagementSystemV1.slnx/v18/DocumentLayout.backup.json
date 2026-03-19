@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trish\\source\\repos\\EmployeeManagementAPI\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|c:\\users\\trish\\source\\repos\\employeemanagementsystemv1\\migrations\\20260319034227_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA208F-D8BB-273D-FD69-64A8CF638FB1}|EmployeeManagementSystemV1.csproj|solutionrelative:migrations\\20260319034227_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:06:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T03:49:48.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:40:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260319034227_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Migrations\\20260319034227_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260319034227_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Migrations\\20260319034227_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260319034227_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:42:28.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:43:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T14:42:15.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T14:44:32.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementSystemV1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:41:23.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\trish\\source\\repos\\EmployeeManagementAPI\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeManagementAPI\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\trish\\source\\repos\\EmployeeManagementAPI\\AppDbContext.cs",
+              "RelativeToolTip": "..\\EmployeeManagementAPI\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:46:25.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

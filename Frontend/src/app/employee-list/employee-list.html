@@ -1,0 +1,41 @@
+<div class="container">
+
+  <h1></h1>
+
+  <h2>{{ isEditing ? 'Edit Employee' : 'Add Employee' }}</h2>
+
+  <div class="form">
+    
+    <input placeholder="Name" [(ngModel)]="newEmployee.name">
+    <input placeholder="Role" [(ngModel)]="newEmployee.role">
+    <input placeholder="Salary" [(ngModel)]="newEmployee.salary">
+
+    <button (click)="isEditing ? updateEmployee() : addEmployee()">
+  {{ isEditing ? 'Update' : 'Add' }}
+</button>
+  </div>
+
+  <h2>Employee List</h2>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Role</th>
+      <th>Salary</th>
+      <th>Actions</th>
+    </tr>
+
+    <tr *ngFor="let emp of employees; let i = index">
+      <td>{{emp.id}}</td>
+      <td>{{emp.name}}</td>
+      <td>{{emp.role}}</td>
+      <td>{{emp.salary}}</td>
+      <td>
+        <button class="edit" (click)="editEmployee(emp)">Edit</button>
+        <button class="delete" (click)="deleteEmployee(emp.id)">Delete</button>
+      </td>
+    </tr>
+  </table>
+
+</div>
