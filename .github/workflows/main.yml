@@ -29,7 +29,7 @@ jobs:
       - name: Build Angular app
         run: |
           cd Frontend
-          npm run build -- --configuration production
+          npm run build -- --configuration production --base-href "/employee-management/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
